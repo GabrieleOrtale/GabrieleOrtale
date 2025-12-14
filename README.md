@@ -1,15 +1,11 @@
 - 👋 Hi, I’m @GabrieleOrtale
 - 👀 I’m interested in:
   • Video editing;
-  • Website development
-  • App development
+  • Data Analysis
+  • Formula 1
 - 🌱 I’m currently learning:
-  • How to edit video;
-  • How to make website;
-  • HTML,CSS,JAVASCRIPT and C# 
-
-<!---
-GabrieleOrtale/GabrieleOrtale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  • How to edit video with After Effects 2020;
+  • Learn different programming languages(Python, c++, SQL);
+  • The basics of machine learning with python
+- I'm also a computer engineering stundent at Politecnico di Torino
 
