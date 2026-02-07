@@ -17,9 +17,7 @@
 💻 Technical Skills
   Programming Languages
   Python
-  C++
   SQL
-  R
 
 Previous Experience
   PHP
