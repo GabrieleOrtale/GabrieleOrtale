@@ -1,42 +1,18 @@
-👋 Hi, I'm a Computer Engineering Student
-
-🎓 Computer Engineering student (1st year) @ Politecnico di Torino
-🏎️ Goal: work in Formula 1, focusing on data, performance & technology
-
-🚀 About Me
-  I'm a first-year Computer Engineering student with a strong interest in data analysis, machine learning and software development. My long-term objective is to apply engineering and data-driven methods to motorsport and Formula 1.
-  I enjoy building projects that combine programming, data and real-world applications, especially in high-performance environments.
-
-🧠 Currently Studying
-  Python
-  Machine Learning with Python
-  SQL & databases
-  C++
-  R for data analysis and statistics
-
-💻 Technical Skills
-  Programming Languages
-  Python
-  SQL
-
-Previous Experience
-  PHP
-  HTML & CSS
-  JavaScript
-  C#
-
-Tools & Technologies
-  Git & GitHub
-  Data analysis libraries (Pandas, NumPy, Matplotlib)
-  Video editing: Adobe After Effects
-
-📊 Interests
-  Data analysis & visualization
-  Machine learning applications
-  Motorsport analytics
-  Software engineering
+# 💫 About Me:
+👋 Hi, I'm a Computer Engineering Student<br><br>🎓 Computer Engineering student (1st year) @ Politecnico di Torino<br>🏎️ Goal: work in Formula 1, focusing on data, performance & technology<br><br>🚀 About Me<br>  I'm a first-year Computer Engineering student with a strong interest in data analysis, machine learning and software development. My long-term objective is to apply engineering and data-driven methods to motorsport and Formula 1.<br>  I enjoy building projects that combine programming, data and real-world applications, especially in high-performance environments.<br><br>🧠 Currently Studying<br>  Python<br>  Machine Learning with Python<br>  SQL & databases<br>  C++<br>  R for data analysis and statistics<br><br>💻 Technical Skills<br>  Programming Languages<br>  Python<br>  SQL<br><br>Previous Experience<br>  PHP<br>  HTML & CSS<br>  JavaScript<br>  C#<br><br>Tools & Technologies<br>  Git & GitHub<br>  Data analysis libraries (Pandas, NumPy, Matplotlib)<br>  Video editing: Adobe After Effects<br><br>📊 Interests<br>  Data analysis & visualization<br>  Machine learning applications<br>  Motorsport analytics<br>  Software engineering<br><br><br>🔧 Repositories will focus on:<br>  Data analysis projects (motorsport & simulated F1 data)<br><br>
 
 
-🔧 Repositories will focus on:
-  Data analysis projects (motorsport & simulated F1 data)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrieleortale) 
 
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GabrieleOrtale&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GabrieleOrtale&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleOrtale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=GabrieleOrtale&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
